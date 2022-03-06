@@ -81,8 +81,8 @@
         "high": 120
     },
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
-    "sitename": "",
+    "siteurl": "https:\/\/refugee-adult-education.eu/elearning",
+    "sitename": "REFUGEE-ADULT",
     "multisitesdisplay": "",
     "sitefindersettings": {},
     "onlyallowlistedsites": false,
